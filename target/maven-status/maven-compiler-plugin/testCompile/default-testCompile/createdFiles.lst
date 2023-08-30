@@ -1,0 +1,10 @@
+page_object\Adidas_shoes.class
+page_object\Home_page.class
+page_object\Login_page.class
+test_case\T001_End_To_End_Test.class
+page_object\Shopping_cart.class
+test_case\Base_test.class
+page_object\Registration_page.class
+page_object\Base_class.class
+page_object\Check_out.class
+page_object\Shoe_page.class
